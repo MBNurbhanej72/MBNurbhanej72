@@ -33,4 +33,4 @@ I specialize in building **dynamic web applications** using **HTML,CSS,JS,React*
 
 ## 🔗 **Connect With Me**  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MBNurbhanej72)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/mohammadali-nurbhanej-b04866288) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([linkedin.com/in/mohammadali-nurbhanej-b04866288](https://www.linkedin.com/in/mohammadali-nurbhanej-b04866288)) 
