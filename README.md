@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Mohammadali Nurbhanej**  
 🚀 **Frontend Web Developer | Open Source Enthusiast** 
 
-I specialize in building **dynamic web applications** using **HTML,CSS,JS,React**. Passionate about **technology**, I stay updated with the latest trends to craft efficient and scalable solutions. Let's connect and build something amazing! 🚀  
+I specialize in building **dynamic web applications** using **React,HTML,CSS,JS**. Passionate about **technology**, I stay updated with the latest trends to craft efficient and scalable solutions. Let's connect and build something amazing! 🚀  
 
 ---
 
