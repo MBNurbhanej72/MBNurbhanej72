@@ -15,6 +15,7 @@ I specialize in building **dynamic web applications** using **HTML,CSS,JS,React*
 
 ## 🛠 **Skills & Technologies**  
 **Languages:** 
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 **Frontend:**  
