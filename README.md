@@ -3,8 +3,7 @@
 
 I specialize in building **dynamic & scalable web applications** using **React.js, Firebase, Redux Toolkit, Zustand, TanStack / React Query, JavaScript, HTML, CSS, Bootstrap, Tailwind CSS**.  
 
-Passionate about **modern frontend technologies**, I stay updated with the latest trends to craft **efficient and high-performance solutions**.  
-Let’s connect and build something amazing! 🚀
+Passionate about **modern frontend technologies**, I stay updated with the latest trends to craft **efficient and high-performance solutions**. Let’s connect and build something amazing! 🚀
 
 ---
 
@@ -34,7 +33,7 @@ Let’s connect and build something amazing! 🚀
 
 ### **State Management**
 ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-State%20Management-black?style=flat)
+![Zustand](https://custom-icon-badges.demolab.com/badge/Zustand-000000?style=flat&logo=zustand&logoColor=white)
 
 ---
 
