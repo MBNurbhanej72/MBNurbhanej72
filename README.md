@@ -1,8 +1,7 @@
 # 👋 Hi, I'm **Mohammadali Nurbhanej**
 🚀 **Frontend Web Developer | Open Source Enthusiast**
 
-I specialize in building **dynamic & scalable web applications** using  
-**React.js, Firebase, Redux Toolkit, Zustand, TanStack / React Query, JavaScript, HTML, CSS, Bootstrap, Tailwind CSS**.  
+I specialize in building **dynamic & scalable web applications** using **React.js, Firebase, Redux Toolkit, Zustand, TanStack / React Query, JavaScript, HTML, CSS, Bootstrap, Tailwind CSS**.  
 
 Passionate about **modern frontend technologies**, I stay updated with the latest trends to craft **efficient and high-performance solutions**.  
 Let’s connect and build something amazing! 🚀
