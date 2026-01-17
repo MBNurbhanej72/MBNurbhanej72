@@ -56,4 +56,4 @@ Let’s connect and build something amazing! 🚀
 
 ## 🔗 **Connect With Me**
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MBNurbhanej72)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/mohammadali-nurbhanej)
+![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)(https://www.linkedin.com/in/mohammadali-nurbhanej)
